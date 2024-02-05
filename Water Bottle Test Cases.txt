@@ -1,0 +1,26 @@
+﻿OBJECT TEST CASE : WATER BOTTLE
+
+
+1.      Check the material of the water bottle.
+2.      Check the weight of the water bottle.
+3.      Check the height of the water bottle.
+4.      Check the shape of the water bottle.
+5.      Check the capacity of the water bottle.
+6.      Check the body color of the water bottle.
+7.      Check the design of the water bottle.
+8.      Verify the brand name and check its position on the water bottle.
+9.      Check the seal of the water bottle.
+10. Check the temperature retention ability of the water bottle.
+11.      Check the durability by subjecting the water bottle to a drop test.
+12. Check if the water bottle is dishwasher-safe.
+13. Check the opening/closing mechanism of the water bottle lid.
+14. Check the ease of cleaning the water bottle.
+15. Check the transparency of the water bottle (if applicable).
+16. Check the grip and handling comfort of the water bottle.
+17. Check the mouthpiece design of the water bottle.
+18. Check if the water bottle is suitable for both hot and cold water.
+19. Check for any potential leakage points in the water bottle.
+20. Check for any special features on the water bottle. 
+        Example: straw, carrying handle etc.
+21. Check the labeling for any specific usage instructions or warnings.
+22. Check the overall quality and finish of the water bottle.
